@@ -54,22 +54,22 @@ schedule:
       - name: Tutorial 
         start: 9 AM
         end: 10 AM
-        location: COM1-B102 
+        location: COM1-B102(G4)
 
       - name: Tutorial 
         start: 10 AM
         end: 11 AM
-        location: COM1-B102 
+        location: COM1-B102(G5)
 
       - name: Tutorial 
         start: 11 AM
         end: 12 PM
-        location: COM1-B102 
+        location: COM1-B102(G7)
 
       - name: Tutorial 
         start: 12 PM
         end: 1 PM
-        location: COM1-B102 
+        location: COM1-B102(G8)
 
       - name: Office Hours
         start: 4 PM
