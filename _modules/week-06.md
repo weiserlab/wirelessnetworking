@@ -1,5 +1,5 @@
 ---
-title: Commodity Wireless Standards (WiFi, Bluetooth, ZigBee)
+title: Commodity Wireless Standards (WiFi, Bluetooth)
 ---
 
 
