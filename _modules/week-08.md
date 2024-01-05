@@ -1,5 +1,5 @@
 ---
-title: Wide Area, Opportunistic and Cellular Networks 
+title: Wide Area, Opportunistic and Cellular Networks, End-of-Course
 ---
 
 
