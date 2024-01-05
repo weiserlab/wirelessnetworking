@@ -30,6 +30,8 @@ timeline:
 schedule:
 
   - name: Monday
+  
+  - name: Monday
     events:
       - name: Tutorial (Group 1)
         start: 9 AM
@@ -54,35 +56,21 @@ schedule:
         end: 10 AM
         location: COM1-B102 
 
-
-
-  - name: Thursday
-    events:
       - name: Tutorial (Group 5)
         start: 10 AM
         end: 11 AM
         location: COM1-B102 
 
-
-
-  - name: Thursday
-    events:
       - name: Tutorial (Group 7)
         start: 11 AM
         end: 12 PM
         location: COM1-B102 
 
-
-  - name: Thursday
-    events:
       - name: Tutorial (Group 8)
         start: 12 PM
         end: 1 PM
         location: COM1-B102 
 
-
-  - name: Thursday
-    events:
       - name: Office Hour
         start: 4 PM
         end: 6 PM
