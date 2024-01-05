@@ -4,7 +4,7 @@ title: Energy Efficient Communication and Sustainability
 
 
 February 16th 2024
-: [Radio Duty Cycling, Medium Access Control](#)
+: [Medium Access Control and Radio Duty Cycling](#)
   : [(LT8, 6:30 to 8:30 pm)](#)
 
 
