@@ -35,7 +35,7 @@ Project | 26th April 2024 (End-of-Day)
 
 ## Submission Instruction
 
-The source code for the assignment 2,3 and project would need to be submitted to the Canvas portal.
+The assignment 2,3 and project would need to be submitted to the Canvas portal.
 
 
 
