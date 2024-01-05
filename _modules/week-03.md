@@ -1,5 +1,5 @@
 ---
-title: Energy efficient communication and Sustainability
+title: Energy Efficient Communication and Sustainability
 ---
 
 

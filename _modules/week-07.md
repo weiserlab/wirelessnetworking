@@ -1,4 +1,4 @@
 ---
-title: End of course, Potpourri of Topics
+title: End of Course, Potpourri of Topics
 ---
 
