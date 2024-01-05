@@ -36,15 +36,15 @@ schedule:
       - name: Tutorial 
         start: 9 AM
         end: 10 AM
-        location: COM1-B102 
+        location: COM1-B102(G1)
       - name: Tutorial 
         start: 10 AM
         end: 11 AM
-        location: COM1-B102 
+        location: COM1-B102(G2)  
       - name: Tutorial 
         start: 11 AM
         end: 12 PM
-        location: COM1-B102 
+        location: COM1-B102(G3)
 
   - name: Tuesday
   - name: Wednesday
