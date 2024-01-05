@@ -27,10 +27,10 @@ Most of the devices we use in our lives are networked using wireless technology.
 
 Preclusion CS5422 and EE5132
 
-## POLICY REGARDING USING AI TOOLS
+## Policy regarding the use of AI tools
 
 TBA
 
-## COURTESY
+## Courtesy
 
-Parts of the course were adapted from courses previously offered by: Prof. Pat Pannuto (University of California, San Diego), Branden Ghena (Northwestern University), Prof. Prabal Dutta (University of California, Berkeley) and Prof. Mun Choon Chan (National University of Singapore).  
+Parts of the course were adapted from courses offered by: Prof. Pat Pannuto (University of California, San Diego), Branden Ghena (Northwestern University), Prof. Prabal Dutta (University of California, Berkeley) and Prof. Mun Choon Chan (National University of Singapore).  
