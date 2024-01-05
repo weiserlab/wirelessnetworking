@@ -8,7 +8,7 @@ description: Resource from previous iteration of the course
 
 ## ChatGPT Prompts
 
-CS4222 was among the earlist courses in the world to incorporate large language models. We provided prompts to student to aid in the learning process. 
+CS4222 was among the earlist courses in the world to incorporate large language models. We provided prompts to student to aid in the learning process. You can find them below.
 
 [Lecture 1 Prompts](https://weiserlab.github.io/ambuj/cs4222_chatgpt)
 
