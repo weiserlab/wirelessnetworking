@@ -9,7 +9,8 @@ seo:
 ---
 
 # Wireless Networking
-## Course code: CS4222, CS5422
+## Instructor: Prof. Ambuj Varshney
+### Course code: CS4222, CS5422
 ### Institution: School of Computing, National University of Singapore 
 ### Year 2024, Semester 2
 
