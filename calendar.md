@@ -6,7 +6,7 @@ description: Schedule for lectures conducted in the course
 
 # Calendar
 
-### Planned lectures (#, Number) : 12 
+### Total number of planned lectures: 12 
 
 {% for module in site.modules %}
 {{ module }}

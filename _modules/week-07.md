@@ -1,7 +1,11 @@
+
 ---
-title: End of Course, Potpourri of Topics
+title: Public Holiday
 ---
 
-April 19th 2024
-: [](#)
-  : [(LT8, 6:30 to 8:30 pm)](#)
+March 29th 2024
+: [Public Holiday, Good Friday](#)
+  : [(NO LECTURE)](#)
+
+
+
