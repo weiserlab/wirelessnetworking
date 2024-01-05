@@ -8,5 +8,7 @@ seo:
   name: Just the Class
 ---
 
-# Just the Class
+# Wireless Networking
+## Course code: CS4222, CS5422
+
 
