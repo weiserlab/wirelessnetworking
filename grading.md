@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Resources
-description: Other resources 
+title: Grading
+description: Grading Crtieria
 ---
 
 # Grading
@@ -19,7 +19,9 @@ Assignment 2 | 10
 Assignment 3 | 15
 Project | 20
 
-The Assignment 2,3 and Project are to be conducted in a group.  The performance in tutorials is based on the attendance. 
+The Assignment 2,3 and Project are to be conducted in a group.  
+
+The performance in tutorials is based on the attendance. 
 
 ## Important Deadlines
 
