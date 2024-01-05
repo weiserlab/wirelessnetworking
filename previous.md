@@ -10,7 +10,7 @@ description: Resource from previous iteration of the course
 
 CS4222 was among the earlist courses in the world to incorporate large language models. We provided prompts to student to aid in the learning process. You can find them below.
 
-[List of relevant prompts and answers](https://weiserlab.github.io/ambuj/cs4222_chatgpt)
+[List of relevant prompts](https://weiserlab.github.io/ambuj/cs4222_chatgpt)
 
 ## Video lectures
 
