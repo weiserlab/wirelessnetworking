@@ -29,6 +29,14 @@ timeline:
 
 schedule:
 
+
+  - name: Thursday
+    events:
+      - name: Office Hour
+        start: 4 PM
+        end: 6 PM
+        location: COM3, 02-25 
+
   - name: Friday
     events:
       - name: Lecture
