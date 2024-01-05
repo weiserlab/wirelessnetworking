@@ -6,7 +6,7 @@ description: Grading Crtieria
 
 # Grading
 
-The assessment of a student's performance in the course is based on their performance throughout the course, evaluated through individual and group assignments, a project done in a group, attendance at tutorials, and a final assessment (open book).
+The assessment of a student's performance in the course is based on their performance throughout the course, evaluated through individual and group assignments, a project done in a group, attendance to tutorial sessions, and a final assessment (open book).
 
 
 ## Assesment Breakdown
@@ -31,7 +31,11 @@ Final Assesment |  29th April 2024 1:00 PM
 Assignment 1 | Demonstrate to TA's in Week 5
 Assignment 2 | TBA
 Assignment 3 | TBA
-Project | TBA
+Project | 26th April 2024 (End-of-Day)
+
+## Submission Instruction
+
+The source code for the assignment 2,3 and project would need to be submitted to the Canvas portal.
 
 
 
