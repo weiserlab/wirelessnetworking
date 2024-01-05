@@ -1,4 +1,4 @@
 ---
-title: Wide area and cellular networks 
+title: Wide area, opportunistic and cellular networks 
 ---
 
