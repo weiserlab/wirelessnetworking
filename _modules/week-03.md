@@ -4,7 +4,7 @@ title: Energy Efficient Communication and Sustainability
 
 
 February 16th 2024
-: [Medium Access Control and Radio Duty Cycling](#)
+: [Medium Access Control, Radio Duty Cycling, Dutycycled MAC](#)
   : [(LT8, 6:30 to 8:30 pm)](#)
 
 
