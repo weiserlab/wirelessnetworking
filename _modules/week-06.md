@@ -9,7 +9,7 @@ March 22nd 2024
 
 
 April 5th 2024
-: [Cellular Networks, Networking without Infrastructure](#)
+: [Cellular Networks, Networking without Infrastructure (Opportunistic Networking)](#)
   : [(LT8, 6:30 to 8:30 pm)](#)
 
 
