@@ -3,7 +3,7 @@ title: Basics
 ---
 
 January 26th 2024
-: [Wireless Propagation, Modulation, Estimating Range](#)
+: [Wireless Propagation, Modulation, Estimating Communication Range](#)
   : [(LT8, 6:30 to 8:30 pm)](#)
 
 February 2nd 2024
