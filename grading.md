@@ -6,10 +6,10 @@ description: Grading Crtieria
 
 # Grading
 
+The assessment of a student's performance in the course is based on their performance throughout the course, evaluated through individual and group assignments, a project done in a group, attendance at tutorials, and a final assessment (open book).
+
 
 ## Assesment Breakdown
-
-The assesment of performance in the course is based on performance throughout the course and  a final assesment (open book). The detailed breakdown is as follows:
 
 Component |  Weightage (%) 
 Final assesment |  40
@@ -25,7 +25,7 @@ Project | 20
 
 ## Important Deadlines
 
-Event |  Due Date
+Event |  Date
 Tutorials | Starting Week 3 (29th January 2024)
 Final Assesment |  29th April 2024 1:00 PM 
 Assignment 1 | Demonstrate to TA's in Week 5
