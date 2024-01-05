@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Calendar
-description: Listing of course modules and topics.
+title: Lectures Schedule
+description: Schedule for lectures in the course
 ---
 
 # Calendar
