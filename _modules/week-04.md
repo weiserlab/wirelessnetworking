@@ -1,4 +1,4 @@
 ---
-title: Discovering neighbours, Routing 
+title: Localisation, Discovering Neighbours, and Routing 
 ---
 
