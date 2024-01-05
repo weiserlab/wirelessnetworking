@@ -20,9 +20,11 @@ Lecture 1 |[Part1](https://youtu.be/s6nnDsU8yxI), [Part2](https://youtu.be/Yj2WY
 Lecture 2 |[Part1](https://youtu.be/mn0X3YH2J4Y), [Part2](https://youtu.be/xoKHeCLtTNk), [Part3](https://youtu.be/lmX5EvpWUeE)
 Lecture 3 |[Part 1](https://youtu.be/zUsVG1AOxU8), [Part 2](https://youtu.be/49zlxpoQ8qQ)
 Lecture 4 |[Part 1](https://youtu.be/sCfb8Zen2-A), [Part 2](https://youtu.be/ZCRBayq-x8g), [Part 3](https://youtu.be/zyWv1ZHxuxs)
-Lecture 5 |
-Lecture 6 |
-Lecture 7 |
-Lecture 8 |
-Lecture 9 |
-Lecture 10 |
+Lecture 5 |[Part 1](https://youtu.be/O8-BpNKFxiw), [Part 2](https://youtu.be/G-G-0Q-SyHI), [Part 3](https://youtu.be/KXiS3vq7OEA)
+Lecture 6 | [Part 1](https://youtu.be/0cRiIv_GFN8), [Part 2a](https://youtu.be/FpRwW3Qmvis), [Part 2b](https://youtu.be/Qn3OMaf5vEc), [Part 3](https://youtu.be/W6Ptzv-bGgI)
+Lecture 7 | [Part 1](https://youtu.be/H5zdMqwg7UE) 
+Lecture 8 | [Part 1](https://youtu.be/wLsvmCPgNB8), [Part 2](https://youtu.be/XUlzFM8g95U), [Part 3](https://youtu.be/FK_z_AQDdqM)
+Lecture 9 | [Part 1](https://youtu.be/ZjyBqS2lKLY), [Part 2](https://youtu.be/-IVlyuOeMp4), [Part 3](https://youtu.be/0KcegYc-tvk)
+Lecture 10 | [Part 1](https://youtu.be/wLsvmCPgNB8), [Part 2](https://youtu.be/XUlzFM8g95U), [Part 3](https://youtu.be/FK_z_AQDdqM) 
+Lecture 11 | [Part 1](https://youtu.be/jOfEeqh3yAY) , [Part 2](https://www.youtube.com/watch?v=khklFLawD3U)
+Lecture 12 | [Part 1](https://www.youtube.com/watch?v=XJtOQcBmviU)
