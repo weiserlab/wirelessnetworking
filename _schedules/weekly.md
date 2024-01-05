@@ -30,7 +30,7 @@ timeline:
 schedule:
 
   - name: Monday
-  
+
   - name: Monday
     events:
       - name: Tutorial (Group 1)
@@ -71,7 +71,7 @@ schedule:
         end: 1 PM
         location: COM1-B102 
 
-      - name: Office Hour
+      - name: Office Hours
         start: 4 PM
         end: 6 PM
         location: COM3, 02-25 
