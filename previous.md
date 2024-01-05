@@ -18,8 +18,8 @@ They were created for the  iteration of the course offered in the year 2023. The
 
 Lecture 1 |[Part1](https://youtu.be/s6nnDsU8yxI), [Part2](https://youtu.be/Yj2WYdin7ZU), [Part3](https://youtu.be/gXvLu4eyOrs)
 Lecture 2 |[Part1](https://youtu.be/mn0X3YH2J4Y), [Part2](https://youtu.be/xoKHeCLtTNk), [Part3](https://youtu.be/lmX5EvpWUeE)
-Lecture 3 |
-Lecture 4 |
+Lecture 3 |[Part 1](https://youtu.be/zUsVG1AOxU8), [Part 2](https://youtu.be/49zlxpoQ8qQ)
+Lecture 4 |[Part 1](https://youtu.be/sCfb8Zen2-A), [Part 2](https://youtu.be/ZCRBayq-x8g), [Part 3](https://youtu.be/zyWv1ZHxuxs)
 Lecture 5 |
 Lecture 6 |
 Lecture 7 |
