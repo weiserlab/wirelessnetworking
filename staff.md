@@ -4,7 +4,7 @@ title: Staff
 description: A listing of all the course staff members.
 ---
 
-# Staff
+# Course Staff
 
 The course is coordinated and taught by the instructor Prof. Ambuj Varshney. The teaching assistant help with the tutorial sessions, grading of the assignments and projects. The additional support staff may help with the troubleshooting of IoT devices and with the course logistics.
 
