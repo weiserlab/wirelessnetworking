@@ -10,7 +10,7 @@ March 22nd 2024
 
 
 March 29th 2024
-: [Public Holiday, Good Friday (NO LECTURE)](#)
+: [Public Holiday, Good Friday](#)
   : [(NO LECTURE)](#)
 
 
