@@ -35,17 +35,10 @@ schedule:
         start: 9 AM
         end: 10 AM
         location: COM1-B102 
-
-
-  - name: Monday
-    events:
       - name: Tutorial (Group 2)
         start: 10 AM
         end: 11 AM
         location: COM1-B102 
-
-  - name: Monday
-    events:
       - name: Tutorial (Group 3)
         start: 11 AM
         end: 12 PM
