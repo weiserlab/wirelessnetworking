@@ -4,7 +4,7 @@ title: Previous Year
 description: Resource from previous iteration of the course
 ---
 
-# Previous course iteration
+# Resources from the previous course iteration
 
 ## ChatGPT Prompts
 
