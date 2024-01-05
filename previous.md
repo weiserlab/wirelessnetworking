@@ -17,3 +17,12 @@ CS4222 was among the earlist courses in the world to incorporate large language 
 They were created for the  iteration of the course offered in the year 2023. The course has since been updated, so it's possible that these videos include additional topics not covered this year, or they may not encompass some of the topics covered in the current curriculum.
 
 Lecture 1 |[Part1](https://youtu.be/s6nnDsU8yxI), [Part2](https://youtu.be/Yj2WYdin7ZU), [Part3](https://youtu.be/gXvLu4eyOrs)
+Lecture 2 |[Part1](https://youtu.be/mn0X3YH2J4Y), [Part2](https://youtu.be/xoKHeCLtTNk), [Part3](https://youtu.be/lmX5EvpWUeE)
+Lecture 3 |
+Lecture 4 |
+Lecture 5 |
+Lecture 6 |
+Lecture 7 |
+Lecture 8 |
+Lecture 9 |
+Lecture 10 |
