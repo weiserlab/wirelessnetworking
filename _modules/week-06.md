@@ -1,4 +1,4 @@
 ---
-title: Wide area networks and cellular networks 
+title: Wide area and cellular networks 
 ---
 
