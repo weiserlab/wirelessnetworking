@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Lectures Schedule
-description: Schedule for lectures in the course
+title: Lecture Schedule
+description: Schedule for lectures conducted in the course
 ---
 
 # Calendar
