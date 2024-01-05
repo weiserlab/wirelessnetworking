@@ -44,7 +44,9 @@ schedule:
         end: 12 PM
         location: COM1-B102 
 
-
+  - name: Tuesday
+  - name: Wednesday
+        
   - name: Thursday
     events:
       - name: Tutorial (Group 4)
