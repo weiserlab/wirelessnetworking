@@ -48,7 +48,7 @@ schedule:
     events:
       - name: Tutorial (Group 3)
         start: 11 AM
-        end: 12 AM
+        end: 12 PM
         location: COM1-B102 
 
 
@@ -72,26 +72,16 @@ schedule:
 
   - name: Thursday
     events:
-      - name: Tutorial (Group 6)
-        start: 11 AM
-        end: 12 AM
-        location: COM1-B102 
-
-
-
-  - name: Thursday
-    events:
       - name: Tutorial (Group 7)
         start: 11 AM
-        end: 12 AM
+        end: 12 PM
         location: COM1-B102 
 
 
-  
   - name: Thursday
     events:
       - name: Tutorial (Group 8)
-        start: 12 AM
+        start: 12 PM
         end: 1 PM
         location: COM1-B102 
 
