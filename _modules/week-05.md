@@ -10,8 +10,8 @@ March 22nd 2024
 
 
 March 29th 2024
-: [](#)
-  : [(LT8, 6:30 to 8:30 pm)](#)
+: [Public Holiday, Good Friday (NO LECTURE)](#)
+  : [(NO LECTURE)](#)
 
 
 
