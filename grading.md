@@ -25,18 +25,15 @@ Project | 20
 
 ## Important Deadlines
 
-### Tutorials: Starting Week 3
+Event |  Due Date
+Tutorials | Starting Week 3 (29th January 2024)
+Final Assesment |  29th April 2024 1:00 PM 
+Assignment 1 | Demonstrate to TA's in Week 5
+Assignment 2 | TBA
+Assignment 3 | TBA
+Project | TBA
 
 
-### Assignment 1 (Due):  Demonstrate to teaching assistants in Week 5
-
-### Assignment 2 (Due): TBA
-
-### Assignment 3 (Due): TBA
-
-### Project (Due): TBA
-
-### Final Assesment: 29-Apr-2024 1:00 PM 
 
 
 
