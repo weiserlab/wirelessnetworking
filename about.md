@@ -18,7 +18,7 @@ description: >-
 
 ## About
 
-This course provides an introduction to wireless networking, with a focus on the Internet of Things (IoT). It covers fundamental concepts of wireless communication, including signal propagation, modulation schemes, and energy consumption. Building upon these foundational topics, the course explores various layers of the wireless networking stack. This includes physical, mac, networking and application layers. Additionally, the course covers commodity wireless standards such as WiFi, Bluetooth, ZigBee, discussing them as case studies. The course also covers and sustainability issues in wireless communication, like, reliance on batteries and sharing of spectrum. Throughout the course, students will participate in tutorials and hands-on projects, enabling them to apply concepts and develop software prototypes for real IoT devices, thus translating the knowledge acquired into practical scenarios.
+Most of the devices we use in our lvies are networked using wireless technology. This course provides an introduction to wireless networking. It covers the fundamental concepts, including signal propagation, modulation, and energy consumption estimation. Building upon these foundational topics, the course explores various layers of the wireless networking stack, including physical, Mac, networking and application layers. These lead to case studies covering commodity wireless standards (like WiFi, Bluetooth), Cellular networks, and the Internet of Things (IoT). Throughout the course, students will participate in tutorials, assignments and hands-on projects, enabling them to apply concepts and develop software prototypes for real IoT devices, thus translating the knowledge acquired into practical scenarios.
 
 
 
