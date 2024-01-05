@@ -1,5 +1,5 @@
 ---
-title: Commodity Wireless Standards (WiFi, Bluetooth), End-of-course
+title: Commodity Wireless Standards (WiFi, Bluetooth, ZigBee), End-of-course
 ---
 
 April 12th 2024
