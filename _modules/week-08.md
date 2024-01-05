@@ -1,7 +1,6 @@
 ---
-title: Wide Area, Opportunistic and Cellular Networks, End-of-Course
+title: Commodity Wireless Standards (WiFi, Bluetooth), End-of-course
 ---
-
 
 April 12th 2024
 : [](#)

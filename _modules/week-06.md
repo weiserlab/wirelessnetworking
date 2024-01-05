@@ -1,5 +1,5 @@
 ---
-title: Commodity Wireless Standards (WiFi, Bluetooth)
+title: Wide Area, Opportunistic and Cellular Networks
 ---
 
 
