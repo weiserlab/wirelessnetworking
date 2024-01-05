@@ -33,15 +33,15 @@ schedule:
 
   - name: Monday
     events:
-      - name: Tutorial (Group 1)
+      - name: Tutorial 
         start: 9 AM
         end: 10 AM
         location: COM1-B102 
-      - name: Tutorial (Group 2)
+      - name: Tutorial 
         start: 10 AM
         end: 11 AM
         location: COM1-B102 
-      - name: Tutorial (Group 3)
+      - name: Tutorial 
         start: 11 AM
         end: 12 PM
         location: COM1-B102 
@@ -51,22 +51,22 @@ schedule:
         
   - name: Thursday
     events:
-      - name: Tutorial (Group 4)
+      - name: Tutorial 
         start: 9 AM
         end: 10 AM
         location: COM1-B102 
 
-      - name: Tutorial (Group 5)
+      - name: Tutorial 
         start: 10 AM
         end: 11 AM
         location: COM1-B102 
 
-      - name: Tutorial (Group 7)
+      - name: Tutorial 
         start: 11 AM
         end: 12 PM
         location: COM1-B102 
 
-      - name: Tutorial (Group 8)
+      - name: Tutorial 
         start: 12 PM
         end: 1 PM
         location: COM1-B102 
