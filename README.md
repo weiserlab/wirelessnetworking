@@ -1,11 +1,11 @@
 ---
 layout: home
-title: Just the Class
+title: Wireless Networking
 nav_exclude: true
 permalink: /:path/
 seo:
   type: Course
-  name: Just the Class
+  name: Wireless Networking
 ---
 
 # Wireless Networking
