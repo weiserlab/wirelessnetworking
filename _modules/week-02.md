@@ -8,7 +8,7 @@ January 26th 2024
   : [Slide (PPT)](https://weiserlab.github.io/wirelessnetworking/CS4222_Lecture2.pptx)
 
 February 2nd 2024
-: [Signal Propogation, Sensing and Actuation](#)
+: [Signal Propagation, Sensing and Actuation](#)
   : [(LT8, 6:30 to 8:30 pm)](#)
   : [Slide (PPT)](https://weiserlab.github.io/wirelessnetworking/CS4222_Lecture3.pptx)
 
