@@ -17,5 +17,9 @@ February 9nd 2024
 : [NO LECTURE DUE TO CNY EVE]
 
 
+February 16th 2024
+: [Microcontroller Basics, Contiki OS, Battery-lifespan estimation](#)
+  : [(LT8, 6:30 to 8:30 pm)](#)
+
 
 
