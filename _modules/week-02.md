@@ -14,8 +14,7 @@ February 2nd 2024
 
 
 February 9nd 2024
-: [ Battery Lifespan, Wireless Energy Challenge, Layers of Wireless Networking Stack](#)
-  : [(LT8, 6:30 to 8:30 pm)](#)
+: [NO LECTURE DUE TO CNY EVE]
 
 
 
