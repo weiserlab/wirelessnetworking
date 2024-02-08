@@ -8,7 +8,7 @@ description: Information regarding tutorials and schedule
 
 Tutorial 1| Week 3 (Starting 29th January 2024) | [Question Sheet](https://weiserlab.github.io/wirelessnetworking/Tutorial1_amended.pdf) | [Solution](https://weiserlab.github.io/wirelessnetworking/tut1_solution.pdf)
 
-Tutorial 2| Week 4 (Starting 5th February 2024) | [Question Sheet](https://weiserlab.github.io/wirelessnetworking/Tutorial2.pdf) | TBA
+Tutorial 2| Week 4 (Starting 5th February 2024) | [Question Sheet](https://weiserlab.github.io/wirelessnetworking/Tutorial2_v2.pdf) | TBA
 
 Tutorial 3| Week 5 (Starting 12th February 2024) | TBA | TBA
 
