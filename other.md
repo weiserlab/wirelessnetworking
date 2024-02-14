@@ -12,6 +12,7 @@ We list resources relevant to the course.
 
 * [Lecture videos from the last iteration of the course](https://weiserlab.github.io/wirelessnetworking/previous/)
 * [Fundamentals of Wireless Communication, David Tse, UC Berkeley](https://www.youtube.com/playlist?list=PLbbCsk7MUIGfynU-ONMbe-yZXWTgTX1YP)
+* [Evolution of semiconductor industry from TSMC Founder Morris Chang](https://www.youtube.com/watch?v=r_8XClnnvIk)
 
 ## Relevant Textbooks
 
