@@ -1,5 +1,5 @@
 ---
-title: Reccess Week
+title: Localisation, Neighbour discovery and Routing
 ---
 
 March 15th 2024
