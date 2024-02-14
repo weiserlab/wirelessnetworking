@@ -10,7 +10,7 @@ Tutorial 1| Week 3 (Starting 29th January 2024) | [Question Sheet](https://weise
 
 Tutorial 2| Week 4 (Starting 5th February 2024) | [Question Sheet](https://weiserlab.github.io/wirelessnetworking/Tutorial2_v2.pdf) | TBA
 
-Tutorial 3| Week 5 (Starting 12th February 2024) | TBA | TBA
+Tutorial 3| Week 5 (Starting 12th February 2024) (NON GRADED, NO ATTENDANCE) | [Question Sheet](https://weiserlab.github.io/wirelessnetworking/Tutorial3.pdf)  | TBA
 
 Tutorial 4| Week 6 (Starting 19th February 2024) | TBA | TBA
 
