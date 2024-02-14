@@ -1,12 +1,8 @@
 ---
-title: Wide Area, Opportunistic and Cellular Networks
+title: Public Holiday
 ---
 
-April 5th 2024
-: [Single Hop Wide-area Networks, Cellular Networks, Networking without Infrastructure (Backhaul)](#)
-  : [(LT8, 6:30 to 8:30 pm)](#)
-
-
-
-
+March 29th 2024
+: [Public Holiday, Good Friday](#)
+  : [(NO LECTURE)](#)
 

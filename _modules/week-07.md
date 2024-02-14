@@ -1,10 +1,15 @@
 ---
-title: Public Holiday
+title: Commodity Wireless Standards (WiFi, Bluetooth, ZigBee), End-of-course
 ---
 
-March 29th 2024
-: [Public Holiday, Good Friday](#)
-  : [(NO LECTURE)](#)
+April 12th 2024
+: [WiFi Networks](#)
+  : [(LT8, 6:30 to 8:30 pm)](#)
+
+
+April 19th 2024
+: [Bluetooth, Zigbee, End-of-course](#)
+  : [(LT8, 6:30 to 8:30 pm)](#)
 
 
 

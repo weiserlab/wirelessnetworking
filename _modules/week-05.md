@@ -1,15 +1,12 @@
 ---
-title: Localisation, Discovering Neighbours, and Routing 
+title: Wide Area, Opportunistic and Cellular Networks 
 ---
 
-March 15th 2024
-: [Localisation and Neighbour Discovery](#)
+
+April 5th 2024
+: [Single Hop Wide-area Networks, Cellular Networks, Networking without Infrastructure (Backhaul)](#)
   : [(LT8, 6:30 to 8:30 pm)](#)
 
-
-March 22nd 2024
-: [Multihop Networks, Routing](#)
-  : [(LT8, 6:30 to 8:30 pm)](#)
 
 
 
