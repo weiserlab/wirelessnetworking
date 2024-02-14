@@ -10,6 +10,9 @@ We list resources relevant to the course.
 
 ## Videos
 
+* [Lecture videos from the last iteration of the course](https://weiserlab.github.io/wirelessnetworking/previous/)
+* [Fundamentals of Wireless Communication, David Tse, UC Berkeley](https://www.youtube.com/playlist?list=PLbbCsk7MUIGfynU-ONMbe-yZXWTgTX1YP)
+
 ## Relevant Textbooks
 
 There are no mandatory textbook prescribed for the course. Nonetheless, the following textbooks may cover some of the topics discussed in the lecture. Please note, these textbooks may also cover fairly advanced topics.
