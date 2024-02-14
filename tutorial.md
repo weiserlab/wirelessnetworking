@@ -14,20 +14,18 @@ Tutorial 3| Week 5 (Starting 12th February 2024) (NON GRADED, NO ATTENDANCE) | [
 
 Tutorial 4| Week 6 (Starting 19th February 2024) | TBA | TBA
 
-Tutorial 5| Week 7 (Starting 26th February 2024) | TBA | TBA
+Week 7  |(RECESS WEEK) (NO TUTORIAL)|
 
-Week 8  |(RECESS WEEK) (NO TUTORIAL)|
+Tutorial 5| Week 9 (Starting 4th March 2024) | TBA | TBA
 
-Tutorial 6| Week 9 (Starting 4th March 2024) | TBA | TBA
+Tutorial 6| Week 10 (Starting 11th March 2024) | TBA | TBA
 
-Tutorial 7| Week 10 (Starting 11th March 2024) | TBA | TBA
+Tutorial 7| Week 11 (Starting 18th March 2024) | TBA | TBA
 
-Tutorial 8| Week 11 (Starting 18th March 2024) | TBA | TBA
+Tutorial 8| Week 12 (Starting 25th March 2024) | TBA | TBA
 
-Tutorial 9| Week 12 (Starting 25th March 2024) | TBA | TBA
+Tutorial 9| Week 13 (Starting 1st April 2024) | TBA | TBA
 
-Tutorial 10| Week 13 (Starting 1st April 2024) | TBA | TBA
+Tutorial 10| Week 14 (Starting 8th April 2024) | TBA | TBA
 
-Tutorial 11| Week 14 (Starting 8th April 2024) | TBA | TBA
-
-Tutorial 12| Week 15 (Starting 15th April 2024) | TBA | TBA
+Tutorial 11| Week 15 (Starting 15th April 2024) | TBA | TBA
