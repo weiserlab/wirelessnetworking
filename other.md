@@ -27,4 +27,7 @@ There are no mandatory textbook prescribed for the course. Nonetheless, the foll
 ## Similar Courses
 
 
+* [Course on Wireless Communication: Prof. Andrea Goldsmith, Stanford](https://web.stanford.edu/class/ee359/lectures.html)
+* [Course on Embedded Systems: Prof. Lothar Thiele, ETH Zurich](https://tec.ee.ethz.ch/education/lectures/embedded-systems.html)
+
 
