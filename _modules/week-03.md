@@ -2,7 +2,6 @@
 title: Energy Efficient Communication and Sustainability
 ---
 
-
 February 23rd 2024
 : [Power Management, Medium Access Control, Radio Duty Cycling, Duty cycled protocols](#)
   : [(LT8, 6:30 to 8:30 pm)](#)
