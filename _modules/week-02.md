@@ -19,7 +19,7 @@ February 9th 2024
 
 February 16th 2024
 : [Microcontroller Basics, Contiki OS, Battery-lifespan estimation](#)
-  : [(LT8, 6:30 to 8:30 pm)](#)
+  : [(LT8, 6:30 to 8:30 pm)](https://weiserlab.github.io/wirelessnetworking/CS4222_Lecture4.pptx)
 
 
 
