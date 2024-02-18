@@ -19,8 +19,7 @@ Assignment 2 | 10
 Assignment 3 | 15
 Project | 20
 
-### The Assignment 2,3 and Project are to be conducted in a group.  
-
+### The Assignment 1,2,3 and Project are to be conducted in a group.  
 ### The performance in tutorials is based on the attendance in the designated session. 
 
 ## Important Deadlines
