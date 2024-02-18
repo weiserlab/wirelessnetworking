@@ -3,7 +3,7 @@ title: Energy Efficient Communication and Sustainability
 ---
 
 February 23rd 2024
-: [Power Management, Medium Access Control, Radio Duty Cycling, Duty cycled protocols](#)
+: [Wireless Basics (Continued), Power Management, Radio Duty Cycling](#)
   : [(LT8, 6:30 to 8:30 pm)](#)
 
 March 1st 2024
@@ -11,7 +11,7 @@ March 1st 2024
   : [(NO LECTURE)](#)
 
 March 8th 2024
-: [Backscatter Communication, RFID, NFC and Battery-free Networking](#)
+: [Medium Access Control, Energy-efficient communication: Backscatter, RFID, NFC](#)
   : [(LT8, 6:30 to 8:30 pm)](#)
 
 
