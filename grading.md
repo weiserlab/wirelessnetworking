@@ -29,7 +29,7 @@ Event |  Date
 Tutorials | Starting Week 3 (29th January 2024)
 Final Assesment |  29th April 2024 1:00 PM 
 Assignment 1 | Demonstrate to TA's in Tutorial Session 4 or 5
-Assignment 2 | TBA
+Assignment 2 | March 18th 2024
 Assignment 3 | TBA
 Project | 26th April 2024 (End-of-Day)
 
