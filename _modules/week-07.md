@@ -8,7 +8,7 @@ April 12th 2024
 
 
 April 19th 2024
-: [Bluetooth, Zigbee, End-of-course](#)
+: [Bluetooth, Thread/ZigBee, End-of-course](#)
   : [(LT8, 6:30 to 8:30 pm)](#)
 
 
