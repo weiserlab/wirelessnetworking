@@ -14,6 +14,7 @@ March 1st 2024
 March 8th 2024
 : [Medium Access Control, Energy-efficient communication: Backscatter, RFID, NFC](#)
   : [(LT8, 6:30 to 8:30 pm)](#)
+  : [Slide (PPT)](https://weiserlab.github.io/wirelessnetworking/CS4222_Lecture6.pptx)
 
 
 
