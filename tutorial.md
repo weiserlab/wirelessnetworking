@@ -20,7 +20,7 @@ Tutorial 5| Week 9 (Starting 4th March 2024) | [Question Sheet](https://weiserla
 
 Tutorial 6| Week 10 (Starting 11th March 2024) |  [Question Sheet](https://weiserlab.github.io/wirelessnetworking/Tutorial6.pdf) | | TBA
 
-Tutorial 7| Week 11 (Starting 18th March 2024) | TBA | TBA
+Tutorial 7| Week 11 (Starting 18th March 2024) | [Question Sheet](https://weiserlab.github.io/wirelessnetworking/Tutorial7.pdf)  | TBA
 
 Tutorial 8| Week 12 (Starting 25th March 2024) | TBA | TBA
 
