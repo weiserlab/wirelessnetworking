@@ -18,7 +18,7 @@ Week 7  |(RECESS WEEK) (NO TUTORIAL)|
 
 Tutorial 5| Week 9 (Starting 4th March 2024) | [Question Sheet](https://weiserlab.github.io/wirelessnetworking/Tutorial5.pdf) | [Solution](https://weiserlab.github.io/wirelessnetworking/Tutorial5_solution.pdf)
 
-Tutorial 6| Week 10 (Starting 11th March 2024) |  [Question Sheet](https://weiserlab.github.io/wirelessnetworking/Tutorial6.pdf) | | TBA
+Tutorial 6| Week 10 (Starting 11th March 2024) |  [Question Sheet](https://weiserlab.github.io/wirelessnetworking/Tutorial6.pdf) | [Solution](https://weiserlab.github.io/wirelessnetworking/Tutorial6_solutions.pdf)
 
 Tutorial 7| Week 11 (Starting 18th March 2024) | [Question Sheet](https://weiserlab.github.io/wirelessnetworking/Tutorial7.pdf)  | TBA
 
