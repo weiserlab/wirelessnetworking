@@ -8,8 +8,9 @@ March 15th 2024
   : [Slide (PPT)](https://weiserlab.github.io/wirelessnetworking/CS4222_Lecture7v2.pptx)
 
 March 22nd 2024
-: [Multihop Networks, Routing](#)
+: [Medium Access Control and Localization](#)
   : [(LT8, 6:30 to 8:30 pm)](#)
+  : [Slide (PPT)](https://weiserlab.github.io/wirelessnetworking/CS4222_Lecture8.pptx)
 
 
 
