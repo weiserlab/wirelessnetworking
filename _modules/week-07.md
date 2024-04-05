@@ -2,8 +2,8 @@
 title: Commodity Wireless Standards (WiFi, Bluetooth, ZigBee), End-of-course
 ---
 
-April 12th 2024
-: [WiFi Networks](#)
+April 5th 2024
+: [TBA](#)
   : [(LT8, 6:30 to 8:30 pm)](#)
 
 
