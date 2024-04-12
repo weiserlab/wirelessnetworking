@@ -26,6 +26,6 @@ Tutorial 8| Week 12 (Starting 25th March 2024) | NO Tutorial | No Tutorial
 
 Tutorial 9| Week 13 (Starting 1st April 2024) | [Question Sheet](https://weiserlab.github.io/wirelessnetworking/Tutorial8.pdf) | [Solution](https://weiserlab.github.io/wirelessnetworking/Tutorial8_Solution.pdf)
 
-Tutorial 10| Week 14 (Starting 8th April 2024) | [Question Sheet](https://weiserlab.github.io/wirelessnetworking/Tutorial9.pdf)  | [Solution](https://weiserlab.github.io/wirelessnetworking/Tutorial8_solution.pdf)
+Tutorial 10| Week 14 (Starting 8th April 2024) | [Question Sheet](https://weiserlab.github.io/wirelessnetworking/Tutorial9.pdf)  | [Solution](https://weiserlab.github.io/wirelessnetworking/Tutorial9_solution.pdf)
 
 Tutorial 11| Week 15 (Starting 15th April 2024) | TBA | TBA
