@@ -30,7 +30,7 @@ Final Assesment |  29th April 2024 1:00 PM
 Assignment 1 | Demonstrate to TA's in Tutorial Session 4 or 5
 Assignment 2 | March 18th 2024
 Assignment 3 | April 8th 2024
-Project | 26th April 2024 (End-of-Day)
+Project | 26th April 2024 (End-of-Day), no penalty till 30th April 2024 (Last day for submission)
 
 ## Submission Instruction
 
