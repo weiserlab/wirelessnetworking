@@ -9,8 +9,9 @@ April 5th 2024
 
 
 April 19th 2024
-: [Bluetooth, Thread/ZigBee, End-of-course](#)
+: [Bluetooth, Wi-Fi, Cellular](#)
   : [(LT8, 6:30 to 8:30 pm)](#)
+  : [Slide (PPT)](https://weiserlab.github.io/wirelessnetworking/CS4222_Lecture11.pptx)
 
 
 
