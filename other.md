@@ -8,6 +8,11 @@ description: Other resources
 
 We list resources relevant to the course.
 
+
+## Supplement Lecture Slides
+
+* [Clarification regarding dB and dBm](https://weiserlab.github.io/wirelessnetworking/CS4222_confusion.pptx)
+
 ## Videos
 
 * [Lecture videos from the last iteration of the course](https://weiserlab.github.io/wirelessnetworking/previous/)
